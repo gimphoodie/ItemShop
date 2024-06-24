@@ -1,5 +1,5 @@
-CID_226_Athena_Commando_F_Octoberfest, 2000
-CID_225_Athena_Commando_M_Octoberfest, 2000
+CID_530_Athena_Commando_F_BlackMonday_1BV6J, 1500
+Pickaxe_ID_190_GolfClub, 800
 na
 na
 na
