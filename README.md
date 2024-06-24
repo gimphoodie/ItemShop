@@ -1,6 +1,6 @@
-CID_143_Athena_Commando_F_DarkNinja, 1500
-CID_141_Athena_Commando_M_DarkEagle, 1500
-Pickaxe_ID_059_DarkEagle, 800
+CID_477_Athena_Commando_F_SpaceSuit, 1500
+CID_515_Athena_Commando_M_BarbequeLarry, 1500
+Pickaxe_ID_190_GolfClub, 800
 na
 na
 na
